@@ -1,0 +1,4 @@
+# For git to ignore the binary files
+
+*.exe
+*.kan
