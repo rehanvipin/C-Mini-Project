@@ -9,14 +9,14 @@ It can be modified to predict more than one word too.
 To install and get the model working you need the files in this directory expect the testing folder.
 Once you have cloned this repo, you can compile the main file by using the command:
 
-'''
+```
 gcc main.c predict.c kann.c kautodiff.c -lm -o editor
-'''
+```
 
 And then to execute the editor 
-'''
+```
 ./editor
-'''
+```
 
 Bugs can be reported in the issues coloumn and they will be fixed soon.
 Known bugs can be found in the issues page too.
